@@ -19,9 +19,9 @@ Robotics Engineering Student · Autonomous Systems · Embedded Robotics · Contr
 
 I'm a **Robotics Engineering student at Universidad Carlos III de Madrid**, interested in autonomous systems, robotics software, embedded systems and control.
 
-I particularly enjoy working where **software meets the physical system**: integrating sensors and actuators, implementing algorithms, testing on real hardware and debugging when things do not behave as expected.
+My main interests are robotics software, embedded systems, and autonomous navigation, especially when applied to real robotic platforms.
 
-I'm currently looking for **robotics internship opportunities in Europe**.
+<i>I'm currently looking for **robotics internship opportunities in Europe**.</i>
 
 ---
 
