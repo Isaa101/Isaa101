@@ -6,10 +6,10 @@ Robotics Engineering Student · Autonomous Systems · Embedded Robotics · Contr
 
 <p align="center">
   <a href="mailto:isabel.gregorio101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-isabel.gregorio101%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/isabelgregoriodiez">
-    <img src="https://img.shields.io/badge/LinkedIn-Isabel_Gregorio_Díez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
