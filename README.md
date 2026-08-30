@@ -43,7 +43,7 @@ Mobile robot navigation system combining **A\* path planning, obstacle inflation
 
 `ROS` · `C++` · `Path Planning` · `PID Control` · `Mapping` · `Autonomous Exploration`
 
-🚧 Repository documentation in progress
+🚧 [Repository documentation in progress](https://github.com/Isaa101/robot-navigation-mapping-exploration)
 
 ---
 
