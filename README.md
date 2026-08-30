@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isabel 👋</h1>
 
 <h3 align="center">
-Robotics Engineering Student · Autonomous Systems · Embedded Robotics · Control
+Robotics Engineering Student · Autonomous Systems · Embedded Robotics
 </h3>
 
 <p align="center">
@@ -106,7 +106,6 @@ Extended Kalman Filter combining high-rate IMU measurements with camera-based po
 - Robotics software and system integration
 - Perception and state estimation
 - Embedded robotics
-- Control systems
 - Real-world robot testing and troubleshooting
 
 ---
