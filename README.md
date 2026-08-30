@@ -5,8 +5,8 @@ Robotics Engineering Student · Autonomous Systems · Embedded Robotics · Contr
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Isaa101">
-    <img src="https://img.shields.io/badge/GitHub-Isaa101-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="mailto:isabel.gregorio101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-isabel.gregorio101%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/isabelgregoriodiez">
     <img src="https://img.shields.io/badge/LinkedIn-Isabel_Gregorio_Díez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -15,7 +15,7 @@ Robotics Engineering Student · Autonomous Systems · Embedded Robotics · Contr
 
 ---
 
-## 👩‍💻 About me
+## About me
 
 I'm a **Robotics Engineering student at Universidad Carlos III de Madrid**, interested in autonomous systems, robotics software, embedded systems and control.
 
@@ -25,9 +25,9 @@ I'm currently looking for **robotics internship opportunities in Europe**.
 
 ---
 
-## 🤖 Selected Robotics Work
+## Selected Robotics Work
 
-### 🚗 STM32 Mobile Robot
+### STM32 Mobile Robot
 
 Two-wheel physical robot integrating Bluetooth teleoperation, ultrasonic sensing, motor control and proximity feedback on an STM32 microcontroller.
 
@@ -37,7 +37,7 @@ Two-wheel physical robot integrating Bluetooth teleoperation, ultrasonic sensing
 
 ---
 
-### 🗺️ Autonomous Mobile Robot
+### Autonomous Mobile Robot
 
 Mobile robot navigation system combining **A\* path planning, obstacle inflation, Bézier path smoothing, PID path following and frontier-based exploration**, tested in simulation and on a physical robot.
 
@@ -47,7 +47,7 @@ Mobile robot navigation system combining **A\* path planning, obstacle inflation
 
 ---
 
-### 👁️ Stereo Visual Odometry
+### Stereo Visual Odometry
 
 Stereo vision pipeline using feature detection and optical-flow tracking, geometric outlier rejection and **PnP-RANSAC** for relative camera pose estimation.
 
@@ -57,7 +57,7 @@ Stereo vision pipeline using feature detection and optical-flow tracking, geomet
 
 ---
 
-### 📡 Visual-Inertial State Estimation
+### Visual-Inertial State Estimation
 
 Extended Kalman Filter combining high-rate IMU measurements with camera-based pose estimates, including coordinate-frame transformations and ROS odometry output.
 
@@ -67,7 +67,7 @@ Extended Kalman Filter combining high-rate IMU measurements with camera-based po
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Programming
 
@@ -100,7 +100,7 @@ Extended Kalman Filter combining high-rate IMU measurements with camera-based po
 
 ---
 
-## 🎯 Areas I'm interested in
+## Areas I'm interested in
 
 - Autonomous robotic systems
 - Robotics software and system integration
@@ -116,7 +116,7 @@ Extended Kalman Filter combining high-rate IMU measurements with camera-based po
 </p>
 
 <p align="center">
-  <a href="https://github.com/Isaa101">GitHub</a>
+  <a href="mailto:isabel.gregorio101@gmail.com">Email</a>
   ·
   <a href="https://www.linkedin.com/in/isabelgregoriodiez">LinkedIn</a>
 </p>
