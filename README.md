@@ -21,11 +21,11 @@ I'm a **Robotics Engineering student at Universidad Carlos III de Madrid**, inte
 
 My main interests are robotics software, embedded systems, and autonomous navigation, especially when applied to real robotic platforms.
 
-<i>I'm currently looking for **robotics internship opportunities in Europe**.</i>
+· <i>I'm currently looking for **robotics internship opportunities in Europe**.</i>
 
 ---
 
-## Selected Robotics Work
+## Projects
 
 ### STM32 Mobile Robot
 
