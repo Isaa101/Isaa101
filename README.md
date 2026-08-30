@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Isabel Gregorio Díez 👋</h1>
+<h1 align="center">Hi, I'm Isabel 👋</h1>
 
 <h3 align="center">
 Robotics Engineering Student · Autonomous Systems · Embedded Robotics · Control
