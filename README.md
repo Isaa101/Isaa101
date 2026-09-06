@@ -47,23 +47,13 @@ Mobile robot navigation system combining **A\* path planning, obstacle inflation
 
 ---
 
-### Stereo Visual Odometry
+### Drone Perception & State Estimation
 
-Stereo vision pipeline using feature detection and optical-flow tracking, geometric outlier rejection and **PnP-RANSAC** for relative camera pose estimation.
+ROS/C++ perception and state-estimation project progressing from **planar camera pose estimation and stereo visual odometry to IMU/vision sensor fusion with a 15-state EKF**. Includes feature tracking, PnP-RANSAC, coordinate-frame transformations, bias estimation and an experimental augmented EKF integrating stereo VO.
 
-`ROS` · `C++` · `OpenCV` · `Stereo Vision` · `Visual Odometry` · `Pose Estimation`
+`ROS` · `C++` · `OpenCV` · `Eigen` · `Stereo Vision` · `Visual Odometry` · `EKF` · `Sensor Fusion`
 
-🚧 Repository documentation in progress
-
----
-
-### Visual-Inertial State Estimation
-
-Extended Kalman Filter combining high-rate IMU measurements with camera-based pose estimates, including coordinate-frame transformations and ROS odometry output.
-
-`ROS` · `C++` · `EKF` · `IMU` · `Sensor Fusion` · `State Estimation`
-
-🚧 Repository documentation in progress
+➡️ [View repository](https://github.com/Isaa101/drone-perception-state-estimation)
 
 ---
 
