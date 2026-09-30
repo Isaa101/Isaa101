@@ -64,6 +64,7 @@ Deep learning project for **6-class scene classification** using a convolutional
 `Python` · `PyTorch` · `Computer Vision` · `CNN` · `Deep Learning` · `Image Classification`
 
 ➡️ [View repository](https://github.com/Isaa101/cnn-scene-classification)
+
 ---
 
 ## Technologies
