@@ -57,6 +57,15 @@ ROS/C++ perception and state-estimation project progressing from **planar camera
 
 ---
 
+### Computer Vision - CNN Scene Classification
+
+Deep learning project for **6-class scene classification** using a convolutional neural network trained from scratch. Includes data augmentation, training with early stopping, performance evaluation with confusion matrices and confidence-based prediction rejection.
+
+`Python` · `PyTorch` · `Computer Vision` · `CNN` · `Deep Learning` · `Image Classification`
+
+➡️ [View repository](https://github.com/Isaa101/cnn-scene-classification)
+---
+
 ## Technologies
 
 ### Programming
@@ -71,6 +80,7 @@ ROS/C++ perception and state-estimation project progressing from **planar camera
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square)
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square)
 
@@ -94,9 +104,9 @@ ROS/C++ perception and state-estimation project progressing from **planar camera
 
 - Autonomous robotic systems
 - Robotics software and system integration
-- Perception and state estimation
+- Perception 
 - Embedded robotics
-- Real-world robot testing and troubleshooting
+- Real-world applications
 
 ---
 
